@@ -397,7 +397,7 @@
             Controls.Add(lblType);
             Controls.Add(lblName);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Evcil Hayvan Takip Sistemi";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numAge).EndInit();
             ((System.ComponentModel.ISupportInitialize)numWeight).EndInit();

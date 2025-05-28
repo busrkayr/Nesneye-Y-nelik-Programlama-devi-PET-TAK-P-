@@ -67,7 +67,7 @@ namespace PetTakipp
         {
             Type = "Kedi";
         }
-
+        
         public override string GetSpecialNeeds()
         {
             return "Kum kabı temizliği ve tırnak bakımı gerekir. " +

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetTakipp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be27b5751b7ed0abb60113dfe042283e631545d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+992ee19492bc428501c3fcee0212b6fca318243e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetTakipp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetTakipp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
